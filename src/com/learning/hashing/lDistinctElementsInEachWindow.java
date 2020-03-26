@@ -44,7 +44,7 @@ public class lDistinctElementsInEachWindow {
 			else
 				map.put(arr[i], map.get(arr[i])+1);
 			
-			// print size of the map
+			// print size of the map finally
 			System.out.println(map.size());
 		}
 	}
